@@ -1,7 +1,8 @@
 ---
 layout: home
 header:
-  title: LETCS
+  # title: letcs
+  image: assets/img/logo-bright.png
   text: >
     专业 CS 培训 ｜ 找实习/全职 ｜ 转码
   # action: # action button is optional
