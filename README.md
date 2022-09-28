@@ -1,6 +1,6 @@
 # letcs website
 
-A repo host the LETCS website, visit letcs website clich [here](http://letcs.org).
+A repo host the LETCS website, visit letcs website click [here](http://letcs.org).
 
 ## development
 
