@@ -60,4 +60,7 @@
     }
   });
 
+  $('#contact-bubble').click(function() {
+    $('#contact-bubble').first().toggleClass("open close");
+  });
 })(jQuery); // End of use strict
