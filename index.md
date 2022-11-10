@@ -14,8 +14,8 @@ sections:
   - type: call-to-action.html
     section_id: action
     background_style: bg-primary
-    title: 开业优惠 50% OFF !!!
-    text: 2022.09 - 2022.11 期间报名参加任何 LETCS 课程即可享受 5 折开业优惠，详情请微信咨询。
+    title: 各种优惠活动火热进行中 ！！！
+    text: 老生带新生，多人成团，都有现金优惠，详情请微信咨询。
     # actions:
     #   - title: Get Started!
     #     url: '#page-top'
