@@ -55,10 +55,10 @@ sections:
         text: LETCS Coordinator
         image: assets/img/members/luigi.jpg
       - title: Eric
-        text: SDE@IBM
+        text: Senior SDE @ Qualcomm
         image: assets/img/members/eric.jpg
       - title: Ted
-        text: SDE@Morgan Stanley
+        text: Senior SDE @ Morgan Stanley
         image: assets/img/members/ted.jpg
 
   - type: contact.html
